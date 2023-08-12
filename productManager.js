@@ -33,6 +33,8 @@ class ProductManager {
     }
 }
 
+// Caso de Ejemplo
+
 const producto = new ProductManager();
 
 producto.addProduct({
